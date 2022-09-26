@@ -1,0 +1,51 @@
+body
+{
+    background-image: url("https://fashionstyle.ng/wp-content/uploads/2022/06/netflix-e1654509835192.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+}
+
+img{
+    height:100px;
+    width: 300px;
+}
+
+.Signbutton{
+    background-color: red;
+    color: white;
+    border: none;
+    width: 80px;
+    height: 30px;
+    float: right;
+    margin-right: 10px;
+    margin-top: 20px;
+} 
+
+h1{
+    font-size: 72px;
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+}
+h5{
+    text-align: center;
+}
+
+input{
+    height: 50px;
+    width: 500px;
+    color: black;
+    padding-right: 500px;
+    margin-left: 400px;       
+}
+
+.started{
+    background-color: red;
+    color: white;
+    height: 50px;
+    width: 200px;
+}
+
