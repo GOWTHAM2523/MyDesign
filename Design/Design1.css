@@ -1,0 +1,35 @@
+body
+{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.Heading
+{
+    font-size: 65px;
+    color: black;
+    margin-left: 600px;
+}
+.Headinga
+{
+    font-size: 65px;
+    color: black;
+}
+.next
+{
+    margin-left: 600px;   
+}
+img
+{
+  background-repeat: no-repeat;
+  height: 500px;
+  width: 500px;
+  margin-left: 500px;
+}
+
+ul li{
+    list-style-type: none;
+}
+
+.language{
+    color: blue;
+}
